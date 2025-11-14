@@ -1,2 +1,8 @@
-# ascii-art-maker
-Super simple C program that turns text into cool ASCII art banners!
+# Simple ASCII Art Maker
+
+A beginner-friendly C program that converts text to ASCII art.
+
+## Quick Start
+```bash
+./build.sh
+./ascii_art
